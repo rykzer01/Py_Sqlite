@@ -1,1 +1,2 @@
-# sql_001
+# Sqlite CRUD operations
+https://www.tutorialsteacher.com/python/database-crud-operation-in-python
